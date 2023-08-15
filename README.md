@@ -25,7 +25,7 @@ Welcome to Abhyudai's Pizza Co., a React-based web application showcasing a dele
 3. Check the availability status of each pizza.
 4. Review operating hours in the footer to plan your visit or online order.
 
-![Pizza Menu](public/pizzas/Menu_app.jpg )
+![Pizza Menu](https://github.com/Axs7941/pizza_menu_frontend/blob/main/public/pizzas/Menu_app.jpg)
 
 
 ## Contributing
