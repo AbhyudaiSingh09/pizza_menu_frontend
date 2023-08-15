@@ -28,6 +28,7 @@ Welcome to Abhyudai's Pizza Co., a React-based web application showcasing a dele
 ![Pizza Menu](https://raw.githubusercontent.com/Axs7941/pizza_menu_frontend/main/public/pizzas/Menu_app.jpg)
 
 
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
