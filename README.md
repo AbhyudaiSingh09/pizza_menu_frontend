@@ -1,14 +1,12 @@
-
-```markdown
 # Abhyudai's Pizza Co.
 
-Welcome to Abhyudai's Pizza Co., a React-based web application showcasing a delectable menu of authentic Italian pizzas. This project offers a glimpse into the world of pizza, from Focaccia to Pizza Prosciutto, each presented with enticing details and pricing. Whether you're an enthusiast of classic Margherita or crave the unique flavors of Pizza Spinaci, we have something for everyone.
+Welcome to Abhyudai's Pizza Co., a React-based web application showcasing a delectable menu of authentic Italian pizzas. This project offers a glimpse into the world of pizza, from Focaccia to Pizza Prosciutto, each presented with enticing details and pricing. Whether you're an enthusiast of the classic Margherita or crave the unique flavors of Pizza Spinaci, we have something for everyone.
 
 ## Features
 
-- **Dynamic Menu:** Discover a variety of pizzas with detailed descriptions, ingredients, and pricing.
-- **Availability:** Each pizza's availability status is indicated, ensuring you're informed before placing an order.
-- **Operating Hours:** Our footer displays current operating hours, allowing you to plan your visit or online order accordingly.
+- **Dynamic Menu:** Explore a variety of pizzas with detailed descriptions, ingredients, and pricing.
+- **Availability:** Each pizza's availability status is clearly indicated, ensuring you're informed before placing an order.
+- **Operating Hours:** The footer displays the current operating hours, allowing you to plan your visit or online order accordingly.
 
 ## Installation
 
@@ -21,13 +19,11 @@ Welcome to Abhyudai's Pizza Co., a React-based web application showcasing a dele
 ## Usage
 
 1. Browse the dynamic menu to view available pizzas.
-2. Each pizza is showcased with an image, name, ingredients, and pricing.
+2. Each pizza is presented with an image, name, ingredients, and pricing.
 3. Check the availability status of each pizza.
-4. Review operating hours in the footer to plan your visit or online order.
+4. Review the operating hours in the footer to plan your visit or online order.
 
 ![Pizza Menu](https://raw.githubusercontent.com/Axs7941/pizza_menu_frontend/main/public/pizzas/Menu_app.jpg)
-
-
 
 ## Contributing
 
@@ -36,4 +32,3 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ---
 
 Created with ❤️ by Abhyudai
-```
