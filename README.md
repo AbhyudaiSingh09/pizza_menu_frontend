@@ -14,7 +14,7 @@ Welcome to Abhyudai's Pizza Co., a React-based web application showcasing a dele
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install project dependencies.
 4. Run `npm start` to launch the development server.
-5. Open your web browser and visit `http://localhost:3000` to explore Abhyudai's Pizza Co.
+5. Open your web browser and visit `http://localhost:8000` to explore Abhyudai's Pizza Co.
 
 ## Usage
 
